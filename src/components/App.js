@@ -30,7 +30,7 @@ const App = () => {
       </div>
 
       <Preview
-        padding={state3 + "px"}
+        padding={state3 +"px"}
         fontSize={state2 + "px"}
         content={state1}
       />
